@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Миграции
 
-Для установки миграций необходимо выполнить следующие команды:
+Для установки миграций:
 ```
 python manage.py makemigration
 python manage.py migrate
